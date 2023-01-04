@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    image-orientation: initial;
+    
+}
+.button{
+    color: black;
+    padding: 15 px 25px;
+    text-align: center;
+    font-size: medium;
+    cursor: pointer;
+    display: inline-block;
+    background-color: #4caf50;
+/*task one*/
+}
+.one{
+    background-color:lightblue;
+    color: black;
+    width: 100%;
+    margin: auto;
+    height: 750px;
+}
+
+.one img{
+    width: 300px;
+    margin: left 250px;
+    height: 100px;   
+}
+.one.left{
+    margin-left: 100px;
+    margin-top: -750px;
+}
+.one h1{
+    font-size: 72px;
+    margin-bottom: 20px;
+}
+.one h2{
+    font-size: 28px;
+    font-weight: 200;
+    margin-bottom: 70px;
+}
+.one p{
+    
+     font-size:medium;
+     font-weight: 200;
+    
+     
+}
+/*task two*/
+.two{
+    width: 100%;
+    margin: auto;
+    height: 750px;
+}
+.two img{
+    width: 250px;
+    
+    height: fit-content;
+}
+.two h1{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 30%;
+    margin-left: 40%;
+
+}
+
+
+.two img{
+    width: 100%;
+    height: 75%;
+    
+}
+/*task three*/
+.three{
+    background-color: rgb(194, 150, 39);
+    color: black;
+    width: 100%;
+    margin: auto;
+    height: 750px;
+}
+.three h1{
+    color: black;
+    margin-left: 20%;
+}
+.three img{
+   width: 300px;
+   height: 250px;
+    display:inline-block ;
+    width: 350px;
+    height: 325px;
+    padding:0 25px;
+    border-radius: 10px;
+    margin-bottom: 20px;    
+}
+.content{
+    text-align: center;
+
+}
+.content h2{
+  font-weight: 300;
+  font-size: 18px;
+  margin-bottom: 10px;
+  padding: 0 30px 35px;
+  display: inline-block;
+}
+.content p{
+    font-size: 18px;
+    font-weight: 100;
+    padding: 0 115px;
+    display: inline-block;
+}
+/* task four*/
+.four{
+    background-color: rgb(159, 211, 159);
+    color:black;
+    width: 50;
+    margin: auto;
+    height: 750px;
+    padding: 0 90px;
+}
+.four h1{
+    margin-left: 25%;
+    color: black;
+}
+.four h2{
+    margin-left: 20%;
+    font-style: oblique;
+    font-size: 150%;
+}
+.four img{
+    width: fit-content;
+    height: 600px;
+    padding-right: 50px;
+    float: right;
+    
+}
+/*task five*/
+.five{
+    background-color:navajowhite;
+    height: 650px;
+    font-size: large;
+    
+}
+.five img{
+    width: 600px;
+    height: 575px;
+    border-image-width: 50%;
+    float: right;
+}
